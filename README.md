@@ -7,7 +7,7 @@ Sou desenvolvedor full stack utilizando C# e Angular na [@PremierSoft](https://p
 💼  [LinkedIn](https://www.linkedin.com/in/thiago-coppi) <br>
 ✉   [Email](mailto:coppithiago@gmail.com) <br>
 
-### Stack 👩‍💻
+### Stack 👨‍💻
 <img align="left" alt="C#" width="75px" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 <img align="left" alt="JavaScript" width="120px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="left" alt="Angular" width="100px" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
