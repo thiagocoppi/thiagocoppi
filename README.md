@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello World, Sou Thiago! ✌
 
-<!--
-**thiagocoppi/thiagocoppi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor full stack utilizando C# e Angular na [@PremierSoft](https://premiersoft.net/)<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contatos 🌎
+💼  [LinkedIn](https://www.linkedin.com/in/thiago-coppi) <br>
+✉   [Email](mailto:coppithiago@gmail.com) <br>
+
+### Stack 👩‍💻
+<img align="left" alt="C#" width="80px" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+<img align="left" alt="JavaScript" width="100px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img align="left" alt="Angular" width="100px" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+<img align="left" alt="NodeJS" width="100px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<br />
+<br />
