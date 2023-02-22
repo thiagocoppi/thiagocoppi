@@ -1,6 +1,6 @@
 ### Hello World, Sou Thiago! ✌
 
-Sou desenvolvedor full stack utilizando C# e Angular na [@PremierSoft](https://premiersoft.net/)<br>
+Sou desenvolvedor full stack utilizando C# e Angular
 
 
 ### Contatos 🌎
